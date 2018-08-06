@@ -1,0 +1,53 @@
+//META{"name":"MatGreen","description":"Colors mentions, urls, switches, sliders, icons, etc, that are normally blue into green. Some things can't be changed due to the need of Javascript to do so.","author":"Hexcede","version":"1.1"}*//{}
+.side-8zPYf6 .itemSelected-1qLhcL, .barFill-23-gu-, .themeDefault-24hCdX.valueChecked-m-4IJZ, .bd-pfbtn, .bda-slist .bda-footer button, .lookFilled-1Gx00P.colorBrand-3pXr91, #bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch.checked, #bd-settings-sidebar .ui-tab-bar-item.selected {
+	background-color: #3abb20 !important;
+	border-color: #3abb20 !important;
+}
+
+.side-8zPYf6 .itemSelected-1qLhcL {
+	color: #fff !important;
+}
+
+.typing-2GQL18 {
+	background-color: rgba(0, 0, 0, 0);
+}
+
+.theme-dark .side-8zPYf6 .itemDefault-3Jdr52:hover {
+	background-color: rgba(126, 218, 114, 0.0980392) !important;
+}
+
+.lookLink-9FtZy-.colorLink-35jkBc, .markup-2BOw-j a, .content-8biNdB a, .markup-2BOw-j a, a {
+	color: #00f464 !important;
+}
+
+.wrapperHover-1GktnT:hover {
+	background-color: rgba(58, 187, 32, .7) !important;
+}
+
+.lookOutlined-3sRXeN.colorBrand-3pXr91, .wrapper-3WhCwL, .bda-slist .bda-footer a {
+	color: #3abb20 !important;
+}
+.wrapper-3WhCwL {
+	background-color: rgba(126, 218, 114, 0.1) !important;
+}
+
+.checkbox .checkbox-inner input[type=checkbox]:checked+span, *[style*="border-color: rgb(114, 137, 218)"], *[style*="border-color: #7289da"] {
+	border-color: #267b15 !important;
+}
+.checkbox .checkbox-inner input[type=checkbox]:checked+span, *[style*="background-color: rgb(114, 137, 218)"], *[style*="background-color: #7289da"] {
+	background-color: #3abb20 !important;
+}
+*[style*="background: rgb(114, 137, 218)"], *[style*="background: #7289da"] {
+	background-color: #3abb20 !important;
+}
+*[style*="color: rgb(114, 137, 218)"], *[style*="color: #7289da"] {
+	color: #3abb20 !important;
+}
+
+.da-checked[style*="border-color: rgb(114, 137, 218)"] {
+	border-color: #00f464 !important;
+}
+
+polyline[stroke="#7289da"] {
+	stroke: #3abb20 !important;
+}
